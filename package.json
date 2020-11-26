@@ -1,0 +1,11 @@
+{
+  "name": "serverless-newworld-20201127",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Keisuke69/serverless-newworld-20201127",
+  "author": "Keisuke69",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^2.12.0"
+  }
+}
