@@ -21,6 +21,8 @@ Dockerを使わない場合はNode.jsをインストールしておく必要が�
 `yarn global add serverless`
 `npm install -g serverless`
 
+また、AWSのクレデンシャルのセットアップも事前に必要です。これはServerless Frameworkのドキュメントを参照ください。
+
 ##開発環境の実行
 ```
 yarn dev
@@ -32,8 +34,10 @@ yarn build
 ```
 
 ## デプロイ
+通常の`serverless deploy`や`sls deploy`ではなく`serverless`とだけ実行してください。
+
 ```
-sls deploy
+serverless
 ```
 
 
