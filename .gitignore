@@ -17,3 +17,5 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 .vercel
+.serverless
+.serverless_nextjs
