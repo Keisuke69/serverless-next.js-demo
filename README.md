@@ -1,4 +1,4 @@
-# serverless-newworld-20201127
+# Serverless Next.js Demo
 2020年11月27日開催のイベントでの説明用に利用するサンプルアプリです。
 
 サーバーレスアンチパターン今昔物語 第七夜<br>
